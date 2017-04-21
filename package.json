@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feload/jenkins-pg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feload/jenkins-pg/issues"
+  },
+  "homepage": "https://github.com/feload/jenkins-pg#readme",
+  "dependencies": {
+    "jest": "^19.0.2"
+  }
+}
